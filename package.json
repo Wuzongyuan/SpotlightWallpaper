@@ -12,6 +12,6 @@
     "image-info": "0.0.2",
     "lodash": "^4.17.14",
     "mz": "^2.7.0",
-    "node-notifier": "^5.4.0"
+    "node-notifier": "^8.0.1"
   }
 }
